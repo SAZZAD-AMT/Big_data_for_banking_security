@@ -60,11 +60,3 @@ ___
 THANKS FOR USING
 
 ___
-
-user1:
-username: sazzad
-password: sazzad
-
-user2:
-username: amit
-password: amit
